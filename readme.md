@@ -5,7 +5,7 @@
 
 ## 📌 Descripción
 
-Este proyecto implementa un análisis econométrico profundo de la inflación quincenal histórica en :contentReference[oaicite:0]{index=0}, desde 1989 hasta 2026, con el objetivo de:
+Este proyecto implementa un análisis econométrico profundo de la inflación quincenal histórica en México, desde 1989 hasta 2026, con el objetivo de:
 
 - Determinar la persistencia de la inflación.
 - Evaluar la presencia de volatilidad condicional.

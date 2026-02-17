@@ -43,14 +43,23 @@ El análisis fue realizado en Python empleando técnicas de series de tiempo y m
 ## 🧾 Estructura del Repositorio
 
 economic-analysis-mexico/
+
 ├── data/
+
 │ ├── raw/
+
 │ └── processed/
+
 ├── notebooks/
+
 │ └── 01_inflation_analysis.ipynb
+
 ├── src/
+
 ├── images/
+
 ├── requirements.txt
+
 └── README.md
 
 
@@ -100,7 +109,11 @@ jupyter notebook notebooks/01_inflation_analysis.ipynb
 
 ## ⭐ Autor
 **Jesus Brenel Galicia Aguilar**
+
 TSU en Tecnologías de la Información. Área de Desarrollo de Software Multiplataforma.
+
 **Cedula Profesional:** 15104776
+
 **Linkedin:** https://www.linkedin.com/in/brenelga
+
 **Github:** https://www.github.com/brenelga
